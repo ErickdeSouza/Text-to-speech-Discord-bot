@@ -48,7 +48,6 @@ const cu = async (text, channelId, messageId, guildId) => {
             'Accept-Encoding': 'gzip, deflate, br, zstd',
             'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
             'Content-Type': 'application/x-www-form-urlencoded',
-            'Cookie': '_ga=GA1.1.772074974.1717121694; _ga_H0XGBVF70F=GS1.1.1717159760.3.1.1717159770.50.0.110437685; FCNEC=%5B%5B%22AKsRol-k9OtFTMf2Uq38ax3gPp53fDgyHOMxSMLUdpKFk3-CWaD4tCxgjw_c0xoempAm8iEiB6IspLwAolI8BeNpwBP3bEQq_V60myaRsCnV91hkTYe8yY0wGsV6gWI3i_PhueUhMwYYlV9HaQlRAr_p9BSHT6fK5g%3D%3D%22%5D%2Cnull%2C%5B%5B2%2C%22%5Bnull%2C%5Bnull%2C4%2C%5B1717121695%2C201007000%5D%5D%5D%22%5D%5D%5D',
             'Origin': 'https://ttsmp3.com',
             'Priority': 'u=1, i',
             'Referer': 'https://ttsmp3.com/',
