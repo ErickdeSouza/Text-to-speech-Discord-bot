@@ -25,5 +25,5 @@ After that, run the bot and Voilà!!!, you already have a text-to-speech bot.
 
 ![Example](./imgs/image.png)
 
-![Example2](./imgs/video.mkv)
+![Example2](./imgs/video.mp4)
 
