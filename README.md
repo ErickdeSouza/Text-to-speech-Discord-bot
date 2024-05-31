@@ -26,4 +26,6 @@ After that, run the bot and Voilà!!!, you already have a text-to-speech bot.
 ![Example](./imgs/image.png)
 
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/DKeqfRVDmdk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAuERtzo4licgUkFpa_ekk8DpnT2Q)](https://www.youtube.com/watch?v=DKeqfRVDmdk)
+
+https://github.com/ErickdeSouza/Text-to-speech-Discord-bot/assets/107515974/108cb356-1165-4bc3-88f4-306eaa527fda
+
